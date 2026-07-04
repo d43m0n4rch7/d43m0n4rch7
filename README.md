@@ -24,3 +24,21 @@
     />
   </a>
 </p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=d43m0n4rch7&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=en&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;ring_color=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=d43m0n4rch7&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=en&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;ring_color=0969da"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=d43m0n4rch7&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=en&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;ring_color=0969da"
+      width="620"
+      alt="GitHub stats"
+    />
+  </picture>
+</p>
