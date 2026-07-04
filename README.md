@@ -14,3 +14,13 @@
     />
   </picture>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,ts,git,githubactions,nodejs,npm,postgres,mysql,prisma,supabase,python,flask,fastapi,redis,docker,debian,ubuntu,linux,windows,bash,discordjs,discord,bots,md,vscode,pycharm,vite,tailwind&amp;perline=10&amp;theme=dark"
+      height="220"
+      alt="Skills"
+    />
+  </a>
+</p>
